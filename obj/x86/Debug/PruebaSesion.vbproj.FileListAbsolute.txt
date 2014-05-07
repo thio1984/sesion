@@ -1,0 +1,22 @@
+C:\Users\Andrés\AppData\Local\Temporary Projects\PruebaSesion\bin\Debug\PruebaSesion.exe.config
+C:\Users\Andrés\AppData\Local\Temporary Projects\PruebaSesion\bin\Debug\PruebaSesion.exe
+C:\Users\Andrés\AppData\Local\Temporary Projects\PruebaSesion\bin\Debug\PruebaSesion.pdb
+C:\Users\Andrés\AppData\Local\Temporary Projects\PruebaSesion\bin\Debug\PruebaSesion.xml
+C:\Users\Andrés\AppData\Local\Temporary Projects\PruebaSesion\obj\x86\Debug\PruebaSesion.Form1.resources
+C:\Users\Andrés\AppData\Local\Temporary Projects\PruebaSesion\obj\x86\Debug\PruebaSesion.LoginForm1.resources
+C:\Users\Andrés\AppData\Local\Temporary Projects\PruebaSesion\obj\x86\Debug\PruebaSesion.Resources.resources
+C:\Users\Andrés\AppData\Local\Temporary Projects\PruebaSesion\obj\x86\Debug\PruebaSesion.vbproj.GenerateResource.Cache
+C:\Users\Andrés\AppData\Local\Temporary Projects\PruebaSesion\obj\x86\Debug\PruebaSesion.exe
+C:\Users\Andrés\AppData\Local\Temporary Projects\PruebaSesion\obj\x86\Debug\PruebaSesion.xml
+C:\Users\Andrés\AppData\Local\Temporary Projects\PruebaSesion\obj\x86\Debug\PruebaSesion.pdb
+C:\Users\Andrés\documents\visual studio 2010\Projects\PruebaSesion\PruebaSesion\bin\Debug\PruebaSesion.exe.config
+C:\Users\Andrés\documents\visual studio 2010\Projects\PruebaSesion\PruebaSesion\obj\x86\Debug\PruebaSesion.exe
+C:\Users\Andrés\documents\visual studio 2010\Projects\PruebaSesion\PruebaSesion\obj\x86\Debug\PruebaSesion.xml
+C:\Users\Andrés\documents\visual studio 2010\Projects\PruebaSesion\PruebaSesion\obj\x86\Debug\PruebaSesion.pdb
+C:\Users\Andrés\documents\visual studio 2010\Projects\PruebaSesion\PruebaSesion\bin\Debug\PruebaSesion.exe
+C:\Users\Andrés\documents\visual studio 2010\Projects\PruebaSesion\PruebaSesion\bin\Debug\PruebaSesion.pdb
+C:\Users\Andrés\documents\visual studio 2010\Projects\PruebaSesion\PruebaSesion\bin\Debug\PruebaSesion.xml
+C:\Users\Andrés\documents\visual studio 2010\Projects\PruebaSesion\PruebaSesion\obj\x86\Debug\PruebaSesion.Form1.resources
+C:\Users\Andrés\documents\visual studio 2010\Projects\PruebaSesion\PruebaSesion\obj\x86\Debug\PruebaSesion.LoginForm1.resources
+C:\Users\Andrés\documents\visual studio 2010\Projects\PruebaSesion\PruebaSesion\obj\x86\Debug\PruebaSesion.Resources.resources
+C:\Users\Andrés\documents\visual studio 2010\Projects\PruebaSesion\PruebaSesion\obj\x86\Debug\PruebaSesion.vbproj.GenerateResource.Cache
